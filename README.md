@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zacurrya
 - 👀 I’m interested in MAKING MONEY
-- 🌱 I’m currently learning Java, JSX, React
+- 🌱 I’m currently learning JavaScript, JSX, React
 - 📫 https://www.linkedin.com/in/zakariya-yusuf/
 
 <!---
