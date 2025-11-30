@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @Zacurrya
-- 👀 I’m interested in MAKING MONEY
-- 🌱 I’m currently learning React, Microservices (w/ FastAPI) and Node.js 
-- 📫 https://www.linkedin.com/in/zakariya-yusuf/
+# Hi there, I'm Zakariya! 👋
 
-<!---
-Zacurrya/Zacurrya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Full Stack Developer passionate about leaving a positive impact on the world through my work.
+
+- 🔭 I’m currently working on **Nomad: Housing Anywhere**
+- 🌱 I’m currently learning **Next.js, TypeScript, FastAPI, Python**
+- 📫 How to reach me: **zakyyusuf2006@gmail.com**
+
+### 🛠️ Tech Stack
+
+**Frontend:**
+Next.js | React | TypeScript | Tailwind CSS | Figma
+
+**Backend & Tools:**
+Node.js | PostgreSQL | Prisma | FastAPI | Docker
