@@ -1,10 +1,11 @@
 # Hi there, I'm Zakariya! 👋
 
-I'm a Full Stack Developer passionate about leaving a positive impact on the world through my work.
+I'm a Full Stack Developer, passionate about leaving a positive impact on the world through my work and wealth.
 
 - 🔭 I’m currently working on **Nomad: Housing Anywhere**
 - 🌱 I’m currently learning **Next.js, TypeScript, FastAPI, Python**
 - 📫 How to reach me: **zakyyusuf2006@gmail.com**
+- 🏸 In my free time: **Badminton, Gym, Pool, Reading**
 
 ### 🛠️ Tech Stack
 
