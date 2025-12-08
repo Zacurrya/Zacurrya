@@ -1,16 +1,18 @@
 # Hi there, I'm Zakariya! 👋
 
-I'm a Full Stack Developer, passionate about leaving a positive impact on the world through my work and wealth.
+Aspiring Software Engineer, passionate about leaving a positive impact on the world through my work.
 
-- 🔭 I’m currently working on **Nomad: Housing Anywhere**
-- 🌱 I’m currently learning **Next.js, TypeScript, FastAPI, Python**
+- 🔭 I’m currently working on **Portfolio Website & Nomad Housing**
+- 🌱 I’m currently learning **Next.js, Web Infrastructure & Microservice Architecture**
 - 📫 Contact through the email form **[here](http://zaky-yusuf.com/#contact)**
-- 🏸 In my free time: **Badminton, Gym, Pool, Reading**
 
-### 🛠️ Tech Stack
+### 🛠️ Typical Workflow
+- **Design:** Figma, Visual Paradigm
+- **Frameworks:** Next.js, React Native
+- **Go Tos:** FastAPI, TailwindCSS, PostgreSQL, Prisma
+- **Others:** TypeScript | Node.js | Docker | Gradle | Maven
 
-**Frontend:**
-Next.js | React | TypeScript | Tailwind CSS | Figma
-
-**Backend & Tools:**
-Node.js | PostgreSQL | Prisma | FastAPI | Docker
+**Fun Facts:**
+- My dream is to help my parents and travel the world
+- Obsessed with badminton
+- Favourite anime is One Piece
