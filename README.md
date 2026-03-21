@@ -11,8 +11,3 @@ Aspiring Software Engineer, passionate about leaving a positive impact on the wo
 - **Frameworks:** Next.js, React Native
 - **Go Tos:** FastAPI, TailwindCSS, PostgreSQL, Prisma
 - **Others:** TypeScript | Node.js | Docker | Gradle | Maven
-
-**Fun Facts:**
-- My dream is to help my parents and travel the world
-- Obsessed with badminton
-- Favourite anime is One Piece
