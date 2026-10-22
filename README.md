@@ -2,9 +2,9 @@
 
 Aspiring Software Engineer, passionate about leaving a positive impact on the world through my work.
 
-- 🔭 I’m currently working on **An ML model trained on stock breakouts**
-- 🌱 I’m currently learning **React Native, ThreeJS & **
-- 📫 Contact me: zaky-yusuf.com
+- 🖥️ I’m currently working on **my final year project: Assessing the viability of english NLP models when learning low-resource languages via transfer learning**
+- 🌱 I’m currently learning **C, Embedded Systems, Data Mining, and Big Data Processing**
+- 📄 Portfolio: zaky-yusuf.com
 
 ### 🛠️ Typical Workflow
 - **Design:** Figma, Visual Paradigm
