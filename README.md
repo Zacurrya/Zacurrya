@@ -7,7 +7,8 @@ Aspiring Software Engineer, passionate about leaving a positive impact on the wo
 - 📄 Portfolio: zaky-yusuf.com
 
 ### 🛠️ Typical Workflow
-- **Design:** Figma, Visual Paradigm
-- **Frameworks:** Next.js, React Native
-- **Go Tos:** TailwindCSS, Supabase, Vercel, FastAPI
-- **Others:** TypeScript | Node.js | Docker | Gradle | Maven
+- **Design:** Figma, Visual Paradigm, Excalidraw
+- **Languages:** Python, Java, JavaScript, TypeScript, C, HTML, CSS, SQL
+- **Frameworks:** React, React Native, Spring Boot, FastAPI
+- **Go Tos:** Postman, PostgreSQL, Supabase, Vercel
+- **Others:** Docker | Render | Maven
